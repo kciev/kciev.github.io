@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center>We are entering into the<b>UW Electric Cars Challenge</b></center>
+<center>We are entering into the <b>UW Electric Cars Challenge</b></center>
 ##Sponsors
 None so far. Check back soon.
 ##Contact Info
