@@ -65,7 +65,6 @@ github-url:         kciev
 # Gems
 gems:
   - jekyll-mentions
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
 
