@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-#disqus_shortname:   tayl
+disqus_shortname:   KCIelectric
 
 # Social
 # if you don't have any of social below, comment the line.
